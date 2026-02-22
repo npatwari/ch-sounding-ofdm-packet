@@ -1,5 +1,7 @@
 # Channel Sounding OFDM Packet Generation
 
+Author: Neal Patwari, 22 Feb 2026
+
 This is a repo with code to generate pilots for an OFDM signal with a low peak-to-average power ratio (PAPR). The code saves two files:
 
 - An IQ file with the samples for just one symbol (256 samples)
